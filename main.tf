@@ -9,3 +9,6 @@ resource "null_resource" "two" {
 resource "null_resource" "three" {
   
 }
+resource "null_resource" "four" {
+  
+}
