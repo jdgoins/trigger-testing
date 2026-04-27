@@ -1,1 +1,2 @@
 /temp_49mb_file filter=lfs diff=lfs merge=lfs -text
+/temp_mb_file filter=lfs diff=lfs merge=lfs -text
