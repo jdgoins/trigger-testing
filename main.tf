@@ -14,6 +14,3 @@ resource "null_resource" "four" {
   
 }
 
-resource "null_resource" "five" {
-  
-}
